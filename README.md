@@ -1,4 +1,4 @@
-# First Angular Project
+# First Angular Project ([link](https://dshreddy.github.io/homes/))
 
 ## Angular Setup
 - Check node -v & npm -v, if there update
@@ -32,3 +32,7 @@
 ## Key Notes
 - To generate new component run `ng generate component <component-name>`.
 - `Interfaces` are custom data types for your app.
+
+## Hosting Angular Project on github
+- `ng add angular-cli-ghpages`
+- `ng deploy --base-href=/<git-repo-name>/`
