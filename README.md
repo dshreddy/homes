@@ -1,4 +1,5 @@
-# First Angular Project ([link](https://dshreddy.github.io/homes/))
+# First Angular Project 
+**The finished Angular app is hosted at the following [link](https://dshreddy.github.io/homes/).**
 
 ## Angular Setup
 - Check node -v & npm -v, if there update
